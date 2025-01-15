@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Beauty salon
 
-## Getting Started
 
-First, run the development server:
+<img src="src/assets/beauty-salon-hp.jpg" alt="Exemplo imagem">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> Nosso espaço foi pensado para proporcionar beleza, bem-estar e uma experiência única para cada cliente. Descubra nossos serviços especializados e agende seu momento de cuidado agora mesmo!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias Utilizadas  
+- **Next.js**: Framework React para renderização do lado do servidor e construção de aplicações modernas.  
+- **React**: Biblioteca para criação de interfaces de usuário.  
+- **CSS Modules**: Estilização com css padrão voltado para o react.  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Ajustes e melhorias
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-## Learn More
+- Criação de templates para PR's e issues
+- Configuração de ESLint
+- Inclusão de commit conventional
+- Criação de workflow no github
+- Implementar arquitetura de pastas no projeto
 
-To learn more about Next.js, take a look at the following resources:
+## 💻 Pré-requisitos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Você instalou a versão mais recente do `Node js`
+- Você tem uma máquina `Windows / Linux / Mac`.
+- Você leu `CONTRIBUTING.md` que é a documentação relacionada ao projeto`.
 
-## Deploy on Vercel
+## 🚀 Instalando gtech-beauty-salon
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Passo a passo  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/GTECH-Study/gtech-beauty-salon.git
+   cd gtech-beauty-salon
+2. Instale as dependências:
+    ```bash
+    npm install
+    # ou
+    yarn install
+3. Inicie o servidor de desenvolvimento:
+    ```bash
+    npm run dev
+    # ou
+    yarn dev
+4. Acesse o projeto no navegador:
+    >http://localhost:3000
+
+## 🤝 Mantenedores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dcarvallho" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/125951354?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Davi Augusto</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SamaraOliveira07" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/166774244?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>Samara Oliveira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kaue-magalhaes" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/61990018?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Kauê de Magalhães</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 😄 Seja um dos contribuidores
+
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
