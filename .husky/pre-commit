@@ -1,0 +1,3 @@
+echo -e "\033[1;34mCheck for linting errors...\033[0m"
+npm run lint:fix ||
+(echo -e "\033[1;31mLinting errors or tests failed. Please, fix them before committing.\033[0m" && exit 1)
