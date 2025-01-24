@@ -1,14 +1,14 @@
 # Beauty salon
 
-
 <img src="src/assets/beauty-salon-hp.jpg" alt="Exemplo imagem">
 
 > Nosso espaço foi pensado para proporcionar beleza, bem-estar e uma experiência única para cada cliente. Descubra nossos serviços especializados e agende seu momento de cuidado agora mesmo!
 
-## 🚀 Tecnologias Utilizadas  
-- **Next.js**: Framework React para renderização do lado do servidor e construção de aplicações modernas.  
-- **React**: Biblioteca para criação de interfaces de usuário.  
-- **CSS Modules**: Estilização com css padrão voltado para o react.  
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js**: Framework React para renderização do lado do servidor e construção de aplicações modernas.
+- **React**: Biblioteca para criação de interfaces de usuário.
+- **CSS Modules**: Estilização com css padrão voltado para o react.
 
 ## Ajustes e melhorias
 
@@ -30,24 +30,27 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando gtech-beauty-salon
 
-### Passo a passo  
+### Passo a passo
 
-1. Clone o repositório:  
+1. Clone o repositório:
    ```bash
    git clone https://github.com/GTECH-Study/gtech-beauty-salon.git
    cd gtech-beauty-salon
+   ```
 2. Instale as dependências:
-    ```bash
-    npm install
-    # ou
-    yarn install
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
 3. Inicie o servidor de desenvolvimento:
-    ```bash
-    npm run dev
-    # ou
-    yarn dev
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
 4. Acesse o projeto no navegador:
-    >http://localhost:3000
+   > http://localhost:3000
 
 ## 🤝 Mantenedores
 

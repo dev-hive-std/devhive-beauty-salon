@@ -1,3 +1,8 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals", "plugin:prettier/recommended"],
+  "rules": {
+    "prettier/prettier": "error",
+    "react/jsx-tag-spacing": ["error", { "beforeSelfClosing": "never" }],
+    "react/self-closing-comp": "error"
+  }
 }
