@@ -1,0 +1,17 @@
+#approve for everything
+* @dcarvallho
+
+#approve config/setup file
+/.github @dcarvallho @kaue-magalhaes
+/.husky @dcarvallho @kaue-magalhaes
+/.vscode @dcarvallho @kaue-magalhaes
+.eslintrc.json @dcarvallho @kaue-magalhaes
+package.json @dcarvallho @kaue-magalhaes
+package-lock.json @dcarvallho @kaue-magalhaes
+/node_modules/ @dcarvallho @kaue-magalhaes
+CONTRIBUTING.md @dcarvallho @kaue-magalhaes
+
+#approve other files
+/src/ @dev-hive/front-end
+/public/ @dev-hive/front-end
+README.md @dev-hive/front-end
