@@ -13,5 +13,5 @@ CONTRIBUTING.md @dcarvallho @kaue-magalhaes
 
 #approve other files
 /src/ @dev-hive/front-end
-/public/ @dev-hive/front-end
-README.md @dev-hive/front-end
+/public/ @dev-hive-std/front-end
+README.md @dev-hive-std/front-end
