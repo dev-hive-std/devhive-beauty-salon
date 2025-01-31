@@ -1,8 +1,51 @@
 {
-  "extends": ["next/core-web-vitals", "plugin:prettier/recommended"],
-  "rules": {
-    "prettier/prettier": "error",
-    "react/jsx-tag-spacing": ["error", { "beforeSelfClosing": "never" }],
-    "react/self-closing-comp": "error"
-  }
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "indent": [
+            "error",
+            "tab"
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-const-assign": [
+            "error"
+        ],
+        "no-dupe-args": [
+            "error"
+        ],
+        "no-dupe-keys": [
+            "error"
+        ],
+        "no-duplicate-imports": [
+            "error"
+        ]
+    }
 }
