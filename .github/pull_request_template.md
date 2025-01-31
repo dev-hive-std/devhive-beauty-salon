@@ -18,6 +18,10 @@ Adicione uma breve descrição do que foi feito no PR.
 ### Screenshots (se aplicável)
 Adicione capturas de tela para ilustrar qualquer alteração visual.
 
+| Before | After |
+| ------ | ----- |
+| Image  | Image |
+
 ### Issue Relacionada
 Se houver uma issue relacionada, adicione o número da issue aqui.  
 Exemplo: `Closes #123` para fechar a issue 123 quando o PR for mesclado.
